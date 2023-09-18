@@ -1,1 +1,1 @@
-custom golang messaging middleware (based on gorilla websocket) + custtom user/account system reduced to its basics
+custom golang messaging middleware (based on gorilla websocket) + custom user/account system reduced to its basics
