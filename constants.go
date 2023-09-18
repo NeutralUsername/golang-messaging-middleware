@@ -1,0 +1,13 @@
+package main
+
+const VALID_NAME_CHARS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-"
+
+const (
+	USER_POWER_GUEST       = 0
+	USER_POWER_UNCONFIRMED = 1
+	USER_POWER_CONFIRMED   = 2
+	USER_POWER_GM          = 3
+	USER_POWER_DEV         = 4
+	USER_POWER_ADMIN       = 5
+)
+const WS_MSG_DELIMITER = "<;>"
